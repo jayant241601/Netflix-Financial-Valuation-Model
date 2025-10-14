@@ -12,7 +12,7 @@ This repository contains a hands-on financial modeling and valuation project com
 2. **DCF practice sheet**
    - Built a working DCF model with revenue forecasts, FCF, and discounting logic.
 
-3. **Final_Financial_Model_DummyData.xlsx**
+3. **Dummy model final assignment.xlsx**
    - Complete 3-statement model (IS, BS, CF)
    - Forecast for 5 years
    - DCF valuation
