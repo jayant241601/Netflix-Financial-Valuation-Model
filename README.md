@@ -6,10 +6,10 @@ This repository contains a hands-on financial modeling and valuation project com
 
 ## 📊 Files Included:
 
-1. **Valuation_Practice.xlsx**
+1. **Assignment Valuation Practical Exercise**
    - Initial practice on valuation formulas and basic structure.
 
-2. **DCF_Practice.xlsx**
+2. **DCF practice sheet**
    - Built a working DCF model with revenue forecasts, FCF, and discounting logic.
 
 3. **Final_Financial_Model_DummyData.xlsx**
@@ -34,4 +34,4 @@ This project was completed as part of my Financial Modeling & Valuation certific
 
 ---
 
-Feel free to explore the files, replicate the logic, or use the structure as a reference for your own financial models.
+
